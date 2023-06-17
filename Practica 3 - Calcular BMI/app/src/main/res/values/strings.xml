@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Practica 2 - Calculador de BMI</string>
+    <string name="add_height">Altura (cm)</string>
+    <string name="write_height_cm">Esccriba su altura en centimetros</string>
+    <string name="add_weight">Peso (kg)</string>
+    <string name="write_weight_kg">Escriba su peso en kilogramos</string>
+    <string name="calc_imc">Calcular BMI</string>
+    <string name="result_message">Su BMI es %f</string>
+    <string name="error_message">Añada valores numericos porfavor</string>
+    <string name="less_than_18_5"><![CDATA[< 18,5]]></string>
+    <string name="between18_5_and_24_9">18,5 – 24,9</string>
+    <string name="between25_and_29_9">25,0 – 29,9</string>
+    <string name="between30_and_34_9">30,0 – 34,9</string>
+    <string name="between35_and_39_9">35,0 – 39,9</string>
+    <string name="more_than_40"><![CDATA[> 40]]></string>
+    <string name="under_weight">BAJO de PESO</string>
+    <string name="normal_weight">PESO NORMAL</string>
+    <string name="overweight">SOBREPESO</string>
+    <string name="class1_obesity">Clase 1 Obesidad</string>
+    <string name="class2_obesity">Clase 2 Obesidad</string>
+    <string name="class3_obesity">Clase 3 Obesidad</string>
+    <string name="body_mass_index">BMI</string>
+
+</resources>
